@@ -1,0 +1,22 @@
+﻿  book.c
+D:\cs\2025\BookManager_DataStructure\BookManager_DataStructure\book.c(218,7): warning C4101: “i”: 未引用的局部变量
+D:\cs\2025\BookManager_DataStructure\BookManager_DataStructure\book.c(267,7): warning C4101: “i”: 未引用的局部变量
+  borrow.c
+D:\cs\2025\BookManager_DataStructure\BookManager_DataStructure\borrow.c(208,9): warning C4013: “statistic_reader”未定义；假设外部返回 int
+D:\cs\2025\BookManager_DataStructure\BookManager_DataStructure\borrow.c(379,7): warning C4101: “i”: 未引用的局部变量
+D:\cs\2025\BookManager_DataStructure\BookManager_DataStructure\borrow.c(393,7): warning C4101: “i”: 未引用的局部变量
+D:\cs\2025\BookManager_DataStructure\BookManager_DataStructure\borrow.c(454,7): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\cs\2025\BookManager_DataStructure\BookManager_DataStructure\borrow.c(463,7): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\cs\2025\BookManager_DataStructure\BookManager_DataStructure\borrow.c(443,8): warning C4101: “ch1”: 未引用的局部变量
+D:\cs\2025\BookManager_DataStructure\BookManager_DataStructure\borrow.c(441,7): warning C4101: “i”: 未引用的局部变量
+  landing.c
+D:\cs\2025\BookManager_DataStructure\BookManager_DataStructure\landing.c(135,16): warning C4101: “k”: 未引用的局部变量
+D:\cs\2025\BookManager_DataStructure\BookManager_DataStructure\landing.c(135,13): warning C4101: “j”: 未引用的局部变量
+D:\cs\2025\BookManager_DataStructure\BookManager_DataStructure\landing.c(135,19): warning C4101: “n”: 未引用的局部变量
+D:\cs\2025\BookManager_DataStructure\BookManager_DataStructure\landing.c(182,6): warning C4013: “statistic_book3”未定义；假设外部返回 int
+D:\cs\2025\BookManager_DataStructure\BookManager_DataStructure\landing.c(220,15): warning C4778: “fprintf”: 格式字符串“%\n”未终止
+D:\cs\2025\BookManager_DataStructure\BookManager_DataStructure\landing.c(239,7): warning C4101: “i”: 未引用的局部变量
+  main.c
+D:\cs\2025\BookManager_DataStructure\BookManager_DataStructure\main.c(9,30): warning C4081: 应输入“newline”；找到“;”
+  正在生成代码...
+  BookManager_DataStructure.vcxproj -> D:\cs\2025\BookManager_DataStructure\x64\Debug\BookManager_DataStructure.exe
